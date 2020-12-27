@@ -12,6 +12,6 @@ Subin's jandifarm
 2. ~~mydata 발표(화)~~
 3. 독서
    - 비전공자를 위한 이해할 수 있는 IT 지식
-4. CNCF 및 Cloud 개념 숙지 (https://github.com/souvenir718/Cloud-Study)
+4. [CNCF 및 Cloud 개념 숙지](https://github.com/souvenir718/Cloud-Study)
 5. [TIL](https://github.com/souvenir718/TIL) 1일 1commit!!
 
