@@ -16,6 +16,7 @@ Subin's jandifarm
 5. [TIL](https://github.com/souvenir718/TIL) 1일 1commit!!
 
 
+
 ### :clock5: 2020.12.28 ~ 2021.01.03
 > 휴일 : 01.03 일요일
 
@@ -27,4 +28,17 @@ Subin's jandifarm
    - 비전공자를 위한 이해할 수 있는 IT 지식
 3. 토익공부
    - [매일 푸는 토익](https://www.hackers.co.kr/?c=s_toeic/toeic_info/dlc)
+4. [TIL](https://github.com/souvenir718/TIL) 1일 1commit
+
+
+### :clock5: 2021.01.04 ~ 2021.01.10
+> 휴일 : 없음.
+
+1. 인프런 강의
+   - JS - Flow
+   - 눈떠보니 코딩 테스트 전날
+     - [섹션 4. Javascript - 기본 알고리즘 강좌로 자신감 UP!]
+2. 노마드 코더
+   - JS 그림판 만들기
+3. 토익 공부
 4. [TIL](https://github.com/souvenir718/TIL) 1일 1commit
