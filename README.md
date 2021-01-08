@@ -35,10 +35,10 @@ Subin's jandifarm
 > 휴일 : 없음.
 
 1. 인프런 강의
-   - JS - Flow
+   - ~~JS - Flow~~
    - 눈떠보니 코딩 테스트 전날
      - [섹션 4. Javascript - 기본 알고리즘 강좌로 자신감 UP!]
 2. 노마드 코더
-   - JS 그림판 만들기
+   - JS [그림판 만들기](https://github.com/souvenir718/paintjs)
 3. 토익 공부
 4. [TIL](https://github.com/souvenir718/TIL) 1일 1commit
