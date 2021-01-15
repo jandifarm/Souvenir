@@ -13,7 +13,7 @@
      - [섹션 4. Javascript - 기본 알고리즘 강좌로 자신감 UP!]
 2. 노마드 코더
    - JS [그림판 만들기](https://github.com/souvenir718/paintjs)
-   - JS [크롬 웹 만들기](https://nomadcoders.co/c/vanillajs-challenge/lobby)
+   - JS [크롬 앱 만들기](https://github.com/souvenir718/chrome_app)
 3. 토익 공부
 4. [TIL](https://github.com/souvenir718/TIL) 1일 1commit
 
