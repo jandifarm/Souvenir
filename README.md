@@ -11,7 +11,7 @@
 
 1. 노마드 코더
    - [ ] JS [크롬 앱 만들기](https://github.com/souvenir718/chrome_app)
-   - [Soumentum](https://souvenir718.github.io)
+      - [Soumentum](https://souvenir718.github.io)
 2. [ ] 토익공부
 3. [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
 4. 알고리즘 공부
