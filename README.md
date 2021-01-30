@@ -9,7 +9,7 @@
 > 휴일 : 없음.
 
 - 노마드 코더
-   - [x] React [영화 페이지 만들기](https://github.com/souvenir718/movie_app)
+   - [ ] React [영화 페이지 만들기](https://github.com/souvenir718/movie_app)
 - [ ] 토익공부
 - [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
 - 알고리즘 공부
@@ -25,6 +25,9 @@
 - [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
 - 알고리즘 공부
    - [ ] 백준 하나씩 풀기 
+- [x] [프로젝트 정리](https://github.com/souvenir718/souvenir718.github.io)
+- [SuzyStar](https://souvenir718.github.io/SuzyStar/)
+   - [x] gh-pages 배포
 
 ### :clock5: 2021.01.18 ~ 2021.01.24
 > 휴일 : 없음.
