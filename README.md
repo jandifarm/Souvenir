@@ -5,13 +5,22 @@
 ## 주간 목표
 💡 주간 목표 한거 체크하기!
 
+### :clock5: 2021.01.31 ~ 2021.02.06
+> 휴일 : 없음.
+
+- 노마드 코더
+   - [x] React [영화 페이지 만들기](https://github.com/souvenir718/movie_app)
+- [ ] 토익공부
+- [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
+- 알고리즘 공부
+   - [ ] 백준 하나씩 풀기 
 
 ### :clock5: 2021.01.24 ~ 2021.01.30
 > 휴일 : 없음.
 
 - 노마드 코더
-   - [ ] JS [크롬 앱 만들기](https://github.com/souvenir718/chrome_app)
-      - [Soumentum](https://souvenir718.github.io)
+   - [x] JS [크롬 앱 만들기](https://github.com/souvenir718/chrome_app)
+      - [Soumentum](https://souvenir718.github.io/soumentum)
 - [ ] 토익공부
 - [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
 - 알고리즘 공부
