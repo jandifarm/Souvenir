@@ -9,7 +9,7 @@
 > 휴일 : 없음.
 
 - 노마드 코더
-   - [ ] React [영화 페이지 만들기](https://github.com/souvenir718/movie_app)
+   - [x] React [영화 페이지 만들기](https://souvenir718.github.io/SOUPEDIA)
 - [ ] 토익공부
 - [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
 - 알고리즘 공부
