@@ -8,8 +8,11 @@
 ### :clock5: 2021.02.07 ~ 2021.02.13
 > 휴일 : 있을지도..
 
+- 생활 패턴 유지
+   - [ ] 평일 6시 기상( 00시 ~ 06시 잠자기)
+   - [ ] 주말 7시30분 기상 ( 00시 ~ 07시30분 잠자기)
 - 노마드 코더
-   - [x] JS [TodoList 만들기](https://github.com/souvenir718/souTodo)
+   - [ ] JS [TodoList 만들기](https://github.com/souvenir718/souTodo)
 - 토익공부
    - [ ] 격일로 RC, LC 풀기
 - [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
