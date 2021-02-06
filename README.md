@@ -5,6 +5,17 @@
 ## 주간 목표
 💡 주간 목표 한거 체크하기!
 
+### :clock5: 2021.02.07 ~ 2021.02.13
+> 휴일 : 있을지도..
+
+- 노마드 코더
+   - [x] JS [TodoList 만들기](https://github.com/souvenir718/souTodo)
+- 토익공부
+   - [ ] 격일로 RC, LC 풀기
+- [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
+- 알고리즘 공부
+   - [ ] 백준 하나씩 풀기 
+
 ### :clock5: 2021.01.31 ~ 2021.02.06
 > 휴일 : 없음.
 
