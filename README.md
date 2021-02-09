@@ -12,12 +12,11 @@
    - [ ] 평일 6시 기상( 00시 ~ 06시 잠자기)
    - [ ] 주말 7시30분 기상 ( 00시 ~ 07시30분 잠자기)
 - 노마드 코더
-   - [ ] JS [TodoList 만들기](https://github.com/souvenir718/souTodo)
+   - [X] JS [TodoList 만들기](https://souvenir718.github.io/souTodo/)
 - 토익공부
    - [ ] 격일로 RC, LC 풀기
 - [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
-- 알고리즘 공부
-   - [ ] 백준 하나씩 풀기 
+
 
 ### :clock5: 2021.01.31 ~ 2021.02.06
 > 휴일 : 없음.
