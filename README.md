@@ -5,17 +5,32 @@
 ## 주간 목표
 💡 주간 목표 한거 체크하기!
 
-### :clock5: 2021.02.07 ~ 2021.02.13
+
+
+### :clock5: 2021.02.14 ~ 2021.02.20
 > 휴일 : ❌
 
 - 생활 패턴 유지
    - [ ] 평일 6시 기상( 00시 ~ 06시 잠자기)
    - [ ] 주말 7시30분 기상 ( 00시 ~ 07시30분 잠자기)
-- 노마드 코더
-   - [X] JS [TodoList 만들기](https://souvenir718.github.io/souTodo/)
+- React
+   - [ ] 나만의 포트폴리오 페이지 만들어보기!
 - 토익공부
    - [ ] 격일로 RC, LC 풀기
 - [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
+
+
+### :clock5: 2021.02.07 ~ 2021.02.13
+> 휴일 : ❌
+
+- 생활 패턴 유지
+   - [x] 평일 6시 기상( 00시 ~ 06시 잠자기)
+   - [x] 주말 7시30분 기상 ( 00시 ~ 07시30분 잠자기)
+- 노마드 코더
+   - [x] JS [TodoList 만들기](https://souvenir718.github.io/souTodo/)
+- 토익공부
+   - [ ] 격일로 RC, LC 풀기
+- [x] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
 
 
 ### :clock5: 2021.01.31 ~ 2021.02.06
