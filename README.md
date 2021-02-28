@@ -10,8 +10,8 @@
 > 휴일 : ❌
 
 - 미라클 모닝 시작하기
-   - [ ] 이번주에 AM 4시 40분 정착하기.
-   - [ ] 독서
+   - [ ] 이번주에 AM 5시 정착하기.
+   - [ ] 독서 - 미라클
 - React
    - [ ] 만들었던 souTodo를 React로 바꿔보기!
       - [진행중](https://github.com/souvenir718/souTodo-react)
@@ -26,7 +26,8 @@
 - 미라클 모닝 시작하기
    - [ ] 이번주에 AM 5시 정착하기.
       - ➡ 5시 10분까지 완료.
-   - [ ] 아침에 읽을 책 사기(주말)
+   - [x] 아침에 읽을 책 사기(주말)
+      - 미라클 모닝
 - React
    - [ ] 만들었던 souTodo를 React로 바꿔보기!
       - [진행중](https://github.com/souvenir718/souTodo-react)
