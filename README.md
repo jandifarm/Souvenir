@@ -1,30 +1,46 @@
 # Souvenir
 
-
+<br/>
 
 ## 주간 목표
 💡 주간 목표 한거 체크하기!
 
+<br/>
+
+### :clock5: 2021.03.07 ~ 2021.03.13
+> 휴일 : ❌
+
+- 미라클 모닝
+   - [ ] 이번주에 AM 5시 정착하기.
+   - [ ] 독서
+- React
+   - [ ] 만들었던 souTodo를 React로 바꿔보기!
+      - [진행중](https://github.com/souvenir718/souTodo-react)
+   - [ ] 노마드코더 CSS 2주완성 강의듣기!
+- [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
+- [ ] 웃으면서 살기😊
+
+<br/>
 
 ### :clock5: 2021.02.28 ~ 2021.03.06
 > 휴일 : ❌
 
 - 미라클 모닝 시작하기
-   - [ ] 이번주에 AM 5시 정착하기.
-   - [ ] 독서 - 미라클
+   - [x] 이번주에 AM 5시 정착하기.
+   - [x] 독서 - 미라클모닝(할 엘로드)
 - React
    - [ ] 만들었던 souTodo를 React로 바꿔보기!
       - [진행중](https://github.com/souvenir718/souTodo-react)
-   - [ ] 노마드코더 리덕스101 강의 듣기!
-- [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
-- [ ] 웃으면서 살기😊
+   - [x] 노마드코더 리덕스101 강의 듣기!
+- [x] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
+- [x] 웃으면서 살기😊
 
 
 ### :clock5: 2021.02.21 ~ 2021.02.27
 > 휴일 : ❌
 
 - 미라클 모닝 시작하기
-   - [] 이번주에 AM 5시 정착하기.
+   - [x] 이번주에 AM 5시 정착하기.
       - ➡ 5시 10분까지 완료.
    - [x] 아침에 읽을 책 사기(주말)
       - 미라클 모닝
