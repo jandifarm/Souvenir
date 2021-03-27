@@ -7,20 +7,35 @@
 
 <br/>
 
-### :clock5: 2021.03.21 ~ 2021.03.27
+### :clock5: 2021.03.28 ~ 2021.04.23
 > 휴일 : ❌
 
 - 미라클 모닝
-   - [ ] 이번주에 AM 4시 30분 정착하기.
-   - [ ] 독서 (인간관계론 - 데일 카네기)
-- React
-   - [ ] 만들었던 souTodo를 React로 바꿔보기!
-      - [진행중](https://github.com/souvenir718/souTodo-react)
-   - [ ] 노마드코더 CSS 2주완성 강의듣기!
+   - [ ] 이번주에 AM 4시 30분 .
+   - [ ] 독서 
+- JS
+   - [ ] TIL 정리한거 하나씩 다시 보기.
 - Algorithm
    - [ ] 쉬운거부터 하루 하나씩 실천!
 - [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
 - [ ] 웃으면서 살기😊
+
+<br/>
+
+### :clock5: 2021.03.21 ~ 2021.03.27
+> 휴일 : ❌
+
+- 미라클 모닝
+   - [x] 이번주에 AM 4시 30분 정착하기.
+   - [x] 독서 (인간관계론 - 데일 카네기)
+- React
+   - [x] 만들었던 souTodo를 React로 바꿔보기!
+      - [진행중](https://github.com/souvenir718/souTodo-react)
+   - [x] 노마드코더 CSS 2주완성 강의듣기!
+- Algorithm
+   - [x] 쉬운거부터 하루 하나씩 실천!
+- [x] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
+- [x] 웃으면서 살기😊
 
 <br/>
 
