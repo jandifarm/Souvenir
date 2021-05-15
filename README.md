@@ -7,7 +7,7 @@
 
 <br/>
 
-### :clock5: 2021.05.09 ~ 2021.05.15
+### :clock5: 2021.05.16 ~ 2021.05.22
 > 휴일 : ❌
 
 - 미라클 모닝
@@ -16,10 +16,23 @@
    - [ ] 산타토익으로 공부
 - JS
    - [ ] 정리된 메서드 공부
+- [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
+
+<br/>
+
+### :clock5: 2021.05.09 ~ 2021.05.15
+> 휴일 : ❌
+
+- 미라클 모닝
+   - [x] AM 4시 30분 .
+- 토익
+   - [x] 산타토익으로 공부
+- JS
+   - [ ] 정리된 메서드 공부
 - project
    - [ ] 리팩토링할 프로젝트 찾아보기
-- [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
-- [ ] 웃으면서 살기😊
+- [x] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
+- [x] 웃으면서 살기😊
 
 <br/>
 
