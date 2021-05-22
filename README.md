@@ -5,18 +5,29 @@
 ## 주간 목표
 💡 주간 목표 한거 체크하기!
 
+### :clock5: 2021.05.23 ~ 2021.05.29
+> 휴일 : ❌
+
+- 미라클 모닝
+   - [ ] AM 5시.
+- 토익
+   - [ ] 산타토익으로 공부
+- JS
+   - [ ] 정리한 TIL 다시 보기
+- [x] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
+
 <br/>
 
 ### :clock5: 2021.05.16 ~ 2021.05.22
 > 휴일 : ❌
 
 - 미라클 모닝
-   - [ ] AM 4시 30분 .
+   - [x] AM 4시 30분 .
 - 토익
-   - [ ] 산타토익으로 공부
+   - [x] 산타토익으로 공부
 - JS
    - [ ] 정리된 메서드 공부
-- [ ] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
+- [x] [TIL](https://github.com/souvenir718/TIL) 1일 1commit
 
 <br/>
 
