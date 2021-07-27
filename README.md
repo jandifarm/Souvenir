@@ -5,20 +5,36 @@
 ## 주간 목표
 💡 주간 목표 한거 체크하기!
 
-### :clock5: 2021.07.18 ~ 2021.07.24
+### :clock5: 2021.07.25 ~ 2021.07.31
 > 휴일 : ❌
 
 - 미라클 모닝
    - [ ] AM 5시
 - 독서
    - [ ] 한번이라도 끝까지 버텨본 적 있는가 - 웨이슈잉
-- JS
-   - [ ] 지식 정리
+- CSS
+   - [ ] tailWindCSS 정리 및 연습
 - Algorithm
    - [ ] 하루에 1~2개씩 꾸준히(인프런)
 - Green-Muhly
-   - [ ] Todo 틀 만들기
+   - [ ] Todo 반응형 UI 적용해보기(tailwindCSS)
 - [ ] [TIL](https://github.com/souvenir718/TIL) 하루 계획 꾸준히
+
+<br/>
+### :clock5: 2021.07.18 ~ 2021.07.24
+> 휴일 : ❌
+
+- 미라클 모닝
+   - [x] AM 5시
+- 독서
+   - [x] 한번이라도 끝까지 버텨본 적 있는가 - 웨이슈잉
+- JS
+   - [x] 지식 정리
+- Algorithm
+   - [x] 하루에 1~2개씩 꾸준히(인프런)
+- Green-Muhly
+   - [x] Todo 틀 만들기
+- [x] [TIL](https://github.com/souvenir718/TIL) 하루 계획 꾸준히
 
 <br/>
 
